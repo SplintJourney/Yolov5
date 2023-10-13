@@ -18,7 +18,7 @@ os.environ["DATASET_DIRECTORY"] = "/content/datasets"
 !pip install roboflow
 
 from roboflow import Roboflow
-rf = Roboflow(api_key="3wAYldO7HvCevuQXEwZD")
+rf = Roboflow(api_key="")
 project = rf.workspace("cist-cplyz").project("puromen_moto")
 dataset = project.version(1).download("yolov5")
 
