@@ -1,7 +1,5 @@
 # Yolov5
-執筆中
 
-結果も表示したい
 
 **システム概要**
 
@@ -30,11 +28,12 @@
 
 
 
-**構成図**
+**結果**
 
- <img width="942" alt="image" src="https://github.com/SplintJourney/AWS/assets/139861013/366fb3a7-c263-4b31-bc58-b785dfcb5d41">
+![image](https://github.com/sss-blisp/Yolov5/assets/139861013/ca9470a3-501c-41c1-9d10-e81eac59fbb4)
 
 
+エポック：200
 
 **使ったサービス、言語**
 
